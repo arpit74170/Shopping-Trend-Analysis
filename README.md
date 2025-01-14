@@ -39,7 +39,7 @@ Retail businesses often struggle to keep up with evolving consumer trends. This 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/arpit74170/Shopping-Trend-Analysis/README.md.git
+   git clone (https://github.com/arpit74170/Shopping-Trend-Analysis/blob/main/Code)
    ```
 
 2. Install required dependencies:
